@@ -19,7 +19,7 @@ def txt():
     pen.setpos(-68,95)
     pen.down()
     pen.color('lightgreen')
-    pen.write("JANHAVI",font=("verdana",12,"bold"))
+    pen.write("name",font=("verdana",12,"bold"))
 heart()
 txt()
 pen.ht()
